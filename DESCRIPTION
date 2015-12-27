@@ -1,12 +1,11 @@
 Package: pbdMPILogging
 Type: Package
-Title: Improve Logging Message of pbdMPI
+Title: Easy Logging Messages under pbdMPI
 Version: 0.1
 Date: 2015-12-27
 Author: Wush Wu
 Maintainer: Wush Wu <wush978@gmail.com>
-Description: This package integrates pbdMPI and logging to help the developers
-    of pbdMPI.
+Description: Integrating pbdMPI and logging to help logging under pbdMPI.
 License: GPL(>= 2)
 LazyData: TRUE
 Imports:
