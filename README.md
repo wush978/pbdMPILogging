@@ -4,7 +4,7 @@ Easy Logging Messages under pbdMPI
 
 # Getting Started
 
-```
+```r
 devtools::install_github("wush978/pbdMPILogging")
 library(pbdMPI)
 lirary(logging)
